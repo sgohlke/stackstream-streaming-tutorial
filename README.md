@@ -50,7 +50,7 @@ You do not need much equipment or a big setup to stream on stackstream. In your 
 
 #### You first private test stream
 
-There is a tutorial on (https://matched.io/how-to-livestream-on-stackstream/) that explains how to create a new room. Before your first "real" stream it is a good idea to create a **private room**, i.e. a room with visibility set to "private", to test your settings and get familiar with stackstream. The private room can be accessed only be someone who knows the url, e.g. https://stack-stream.com/case/my-test-room-113 . You can use this to test you room with a second (incognito) browser window or second device.
+There is a [how to stream tutorial](https://matched.io/how-to-livestream-on-stackstream/) that explains how to create a new room. Before your first "real" stream it is a good idea to create a **private room**, i.e. a room with visibility set to "private", to test your settings and get familiar with stackstream. The private room can be accessed only be someone who knows the url, e.g. https://stack-stream.com/case/my-test-room-113 . You can use this to test you room with a second (incognito) browser window or second device.
 * Check that your browser can access the wanted audio, video and/or content share. You might need to grant the browser and/or operating system access to use audio/video/content.  
 * Check your **audio is working**
 * (optional) Check your **video is working** if you want to use it.
@@ -58,7 +58,7 @@ There is a tutorial on (https://matched.io/how-to-livestream-on-stackstream/) th
 
 #### Create a new room
 
-In order to host a live stream you need to create a room, see (https://matched.io/how-to-livestream-on-stackstream/). 
+In order to host a live stream you need to create a room, see the [how to stream tutorial](https://matched.io/how-to-livestream-on-stackstream/). 
 * Select a **fitting topic**. The topic will be used in the notifications. 
 * Select the **language** for your stream. Users might get irritated if you set the wrong language.
 * Select **fitting technologies**. The technologies will be used to notify users that set these as skills in their profile.
