@@ -1,5 +1,6 @@
 # stackstream-streaming-tutorial
-Streaming tutorial(s) for stackstream
+
+[Streaming tutorial(s) for stackstream](https://sgohlke.github.io/stackstream-streaming-tutorial/)
 
 ## Users
 Here is a short list of users and roles on stackstream to get familiar with them.
