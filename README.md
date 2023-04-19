@@ -67,7 +67,7 @@ In order to host a live stream you need to create a room, see the [how to stream
 * If you want your live stream to be available to everyone, **do not set visibility to private**.
 
 #### (optional) Share the link to your room
-You can share the link to your room on social media or the [stackstream discord server](https://discord.gg/22XphDqu7C) (for planned rooms use #planned_rooms, for live ones #live_rooms).
+You can share the link to your room on social media.
 
 ### Hosting your room
 If the preparations are done and the time for the stream has come, you can start your room. While hosting the room there are a few things to do.
