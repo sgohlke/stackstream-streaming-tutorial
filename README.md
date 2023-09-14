@@ -1,5 +1,7 @@
 # stackstream-streaming-tutorial
 
+**Deprecated** Stackstream was closed in September 2023. This tutorial will no longer be updated.
+
 [Streaming tutorial(s) for stackstream](https://sgohlke.github.io/stackstream-streaming-tutorial/)
 
 ## Users
